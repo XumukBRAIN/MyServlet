@@ -50,7 +50,6 @@ public class ServletPage extends HttpServlet {
         users.add(new User("Даниил Давыденко", 12));
         users.add(new User("Димон", 13));
         users.add(new User("Евгений Юсупов", 14));
-        users.add(new User("Егор Паничкин", 15));
         users.add(new User("Илья Макаров", 16));
         users.add(new User("Макаренко Глеб", 17));
         users.add(new User("Мансур Минникаев", 18));
