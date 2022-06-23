@@ -12,7 +12,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  * @author Ivan Kudryashov
- * @version 1.1
+ * @version 1.2
  */
 
 public class ServletPage extends HttpServlet {
