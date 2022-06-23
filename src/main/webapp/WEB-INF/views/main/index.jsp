@@ -8,7 +8,7 @@
         body{
             text-align: center;
             margin: 0;
-            background-color: blanchedalmond;
+            background-color: white;
             background-repeat: no-repeat;
         }
         h1 {
