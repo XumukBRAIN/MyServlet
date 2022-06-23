@@ -40,6 +40,7 @@
         <li>Порядковый номер: <c:out value="${user.id}"/></li>
     </ul>
     <hr />
+    <br/>
 
 </c:forEach>
 
